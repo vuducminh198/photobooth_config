@@ -1,5 +1,6 @@
 {
   "server":"https://zhikong.ai",
   "setting":{},
-  "window_version":1
+  "window_version":1,
+  "window_download_url":""
 }
